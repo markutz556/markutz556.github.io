@@ -22,12 +22,12 @@ repository               : "markutz556/markutz556.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "Shaocheng Wu"
   pronouns         : # example: "she/her"  
   bio              : "Bioinformatics PhD & Computer Science Ms"
   location         : "Vancouver, Canada"
-  employer         : "University of British Columbia"
+  employer         : "University of British\nColumbia"
   uri              : # URL
   email            : "markguo556@gmail.com" 
 
