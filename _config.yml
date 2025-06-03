@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Shaocheng Wu"
 title_separator          : "-"
 name                     : &name "Shaocheng Wu"
-description              : &description "personal description"
+description              : &description "Bioinformatics PhD"
 url                      : https://markutz556.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "markutz556/markutz556.github.io"
@@ -22,7 +22,7 @@ repository               : "markutz556/markutz556.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Shaocheng Wu"
   pronouns         : # example: "she/her"  
   bio              : "Bioinformatics PhD & Computer Science Ms"
