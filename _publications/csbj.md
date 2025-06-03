@@ -1,5 +1,5 @@
 ---
-title: "Cellular, transcriptomic and isoform heterogeneity of breast cancer cell line revealed by full-length single-cell RNA sequencing"
+title: "* Cellular, transcriptomic and isoform heterogeneity of breast cancer cell line revealed by full-length single-cell RNA sequencing"
 collection: publications
 date: Jan 2020
 venue: 'Computational and Structural Biotechnology Journal'
