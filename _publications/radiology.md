@@ -1,5 +1,5 @@
 ---
-title: "* Three-plane–assembled deep learning segmentation of gliomas"
+title: "Three-plane–assembled deep learning segmentation of gliomas"
 collection: publications
 date: Mar 2020
 venue: 'Radiology: Artificial Intelligence'

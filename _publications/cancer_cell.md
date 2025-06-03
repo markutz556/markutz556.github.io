@@ -1,5 +1,5 @@
 ---
-title: "* Integrated single cell analysis reveals co-evolution of malignant B cells and tumor micro-environment in transformed follicular lymphoma"
+title: "Integrated single cell analysis reveals co-evolution of malignant B cells and tumor micro-environment in transformed follicular lymphoma"
 collection: publications
 date: June 2024
 venue: 'Cancer Cell'
