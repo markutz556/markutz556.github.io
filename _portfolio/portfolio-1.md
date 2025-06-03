@@ -1,7 +1,5 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Brain glioma MRI image segmentation"
+excerpt: "I designed a deep-learning-based approach based on U-Net for automatic brain glioma segmentation of multimodal MRI scans with high efficiency and accuracy and achieved the 4th place in the 2018 Multimodal Brain Tumor Segmentation Challenge<br/><img src='/images/Brats18_one_result.jif'>"
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
